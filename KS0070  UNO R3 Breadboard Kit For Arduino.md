@@ -1,9 +1,10 @@
 # **UNO R3 Breadboard Kit for Arduino**
 
-![图片包含 图形用户界面
-描述已自动生成](media/9e39efbe0389c6169c5f6b300f507295.jpg)
+![](media/290e1e093b2520d68b529d4ae843d0b4.jpeg)
 
-## 1. Introduction
+
+
+# 1. Introduction
 
 UNO R3 Breadboard Kit is a learning kit based on UNO R3 development board. It's
 equipped with basic elements for ARDUINO experiments, including breadboard,
@@ -15,37 +16,37 @@ affordable and portable for your Arduino learning.
 
 | **No.** | **Name**                     | **QTY** | **Picture**                                                                                                                                                                                  |
 |---------|------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | keyestudio UNO R3 Controller | 1       | ![ks000](media/6ac1f7cf4cc72b5dfb713ee578689733.jpeg)                                                                                                                                        |
-| 2       | Wires                        | 30      | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 3       | M3\*10 Copper Pillar         | 4       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 4       | M3\*6MM Flat Head            | 4       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 5       | M3\*6MM Round Head           | 4       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 6       | Yellow Button Cap            | 4       | ![](media/c2cea308a95208f3e4eb6760a18ab810.png)![](media/c2cea308a95208f3e4eb6760a18ab810.png)![](media/c2cea308a95208f3e4eb6760a18ab810.png)![](media/c2cea308a95208f3e4eb6760a18ab810.png) |
-| 7       | Breadboard                   | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 8       | Chassis                      | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 9       |  1-digit LED Segment Display | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 10      | Active Buzzer                | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 11      | Passive Buzzer               | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 12      | Thermistor                   | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 13      | 10K Resistor                 | 5       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 14      | 1K Resistor                  | 5       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 15      | 220R Resistor                | 8       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 16      | Tilt Switch                  | 2       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 17      | Photoresistor                | 3       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 18      | Flame Sensor                 | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 19      | DHT11 Sensor                 | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 20      | LM35DZ Sensor                | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 21      | Push Button                  | 4       | ![](media/572bbf8efd7bef6c2763ba6114cd2fda.png)![](media/572bbf8efd7bef6c2763ba6114cd2fda.png)![](media/572bbf8efd7bef6c2763ba6114cd2fda.png)![](media/572bbf8efd7bef6c2763ba6114cd2fda.png) |
-| 22      | RGB LED                      | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 23      | Blue LED                     | 5       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 24      | Yellow LED                   | 5       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 25      | Red LED                      | 5       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 26      | Potentiometer                | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
-| 27      | USB Cable                    | 1       | ![KS0070-升级版](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                |
+| 1       | keyestudio UNO R3 Controller | 1       | ![](media/6ac1f7cf4cc72b5dfb713ee578689733.jpeg)                                                                                                                                             |
+| 2       | Wires                        | 30      | ![](media/0a0f563df052f9b261ee11f802bc2a2b.jpeg)                                                                                                                                             |
+| 3       | M3\*10 Copper Pillar         | 4       | ![](media/f25390c4d3337b2ff18aaf89f8904f58.jpeg)                                                                                                                                             |
+| 4       | M3\*6MM Flat Head            | 4       | ![](media/f25390c4d3337b2ff18aaf89f8904f59.jpg)                                                                                                                                             |
+| 5       | M3\*6MM Round Head           | 4       | ![](media/f25390c4d3337b2ff18aaf89f8904f60.jpg)                                                                                                                                             |
+| 6       | Yellow Button Cap            | 4       | ![](media/c2cea308a95208f3e4eb6760a18ab810.png)! |
+| 7       | Breadboard                   | 1       | ![](media/ks0070-1.jpg)                                                                                                                                             |
+| 8       | Chassis                      | 1       | ![](media/ks0070-2.jpg)                                                                                                                                             |
+| 9       |  1-digit LED Segment Display | 1       | ![](media/ks0070-3.jpg)                                                                                                                                             |
+| 10      | Active Buzzer                | 1       | ![](media/ks0070-4.jpg)                                                                                                                                             |
+| 11      | Passive Buzzer               | 1       | ![](media/ks0070-5.jpg)                                                                                                                                             |
+| 12      | Thermistor                   | 1       | ![](media/ks0070-6.jpg)                                                                                                                                             |
+| 13      | 10K Resistor                 | 5       | ![](media/ks0070-7.jpg)                                                                                                                                             |
+| 14      | 1K Resistor                  | 5       | ![](media/ks0070-8.jpg)                                                                                                                                             |
+| 15      | 220R Resistor                | 8       | ![](media/ks0070-9.jpg)                                                                                                                                             |
+| 16      | Tilt Switch                  | 2       | ![](media/ks0070-10.jpg)                                                                                                                                             |
+| 17      | Photoresistor                | 3       | ![](media/ks0070-11.jpg)                                                                                                                                             |
+| 18      | Flame Sensor                 | 1       | ![](media/ks0070-12.jpg)                                                                                                                                             |
+| 19      | DHT11 Sensor                 | 1       | ![](media/ks0070-13.jpg)                                                                                                                                             |
+| 20      | LM35DZ Sensor                | 1       | ![](media/ks0070-14.jpg)                                                                                                                                             |
+| 21      | Push Button                  | 4       | ![](media/ks0070-15.jpg)!
+| 22      | RGB LED                      | 1       | ![](media/ks0070-16.jpg)                                                                                                                                             |
+| 23      | Blue LED                     | 5       | ![](media/ks0070-17.jpg)                                                                                                                                             |
+| 24      | Yellow LED                   | 5       | ![](media/ks0070-18.jpg)                                                                                                                                             |
+| 25      | Red LED                      | 5       | ![](media/ks0070-19.jpg)                                                                                                                                             |
+| 26      | Potentiometer                | 1       | ![](media/ks0070-20.jpg)                                                                                                                                             |
+| 27      | USB Cable                    | 1       | ![](media/ks0070-21.jpg)                                                                                                                                             |
 
 ## 3. keyestudio UNO R3
 
-![电子器材 中度可信度描述已自动生成](media/0f8bac4303bf4ae332d4496d6c255509.jpg)
+![](media/83e8b9faba0f392e195ac2c142cc5f7d.jpeg)
 
 Microcontroller: ATmega328
 
@@ -224,7 +225,7 @@ damaging the LED.
 
 **Circuit Connection**
 
-![图片2](media/e1620184b39b10454d499b0e4500e818.png)
+![](media/e1620184b39b10454d499b0e4500e818.png)
 
 **Sample Program**
 
@@ -272,7 +273,7 @@ The blinking LED experiment is now completed.
 
 ### Project 3: Traffic Light
 
-![QQ图片20161006113938_00000](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)
+![](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)
 
 **Introduction**
 
@@ -301,7 +302,7 @@ lights experiment, we use 3 LEDs with different color other than 1 LED.
 
 **Circuit Connection**
 
-![图片1](media/4d03a4a001fecb5e0e336c7ec298a090.png)
+![](media/4d03a4a001fecb5e0e336c7ec298a090.png)
 
 **Sample Program**
 
@@ -386,7 +387,7 @@ Experiment is now completed, thank you.
 
 ### Project 4: LED Chasing Effect
 
-![QQ图片20161006113938_00000](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)![QQ图片20161006113938_00000](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)
+![](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)![](media/67bbdaaf4ecb3c46a72f5d5efaf982ee.jpeg)
 
 **Introduction**
 
@@ -506,7 +507,7 @@ state.
 
 **Circuit Connection**
 
-![6-1](media/76aa829d28d17390f712d814d61b8eca.png)
+![](media/76aa829d28d17390f712d814d61b8eca.png)
 
 **Sample Program**
 
@@ -772,7 +773,7 @@ source. Simply connect it with 5V power supply, it can buzz continuously.
 
 **Circuit Connection**
 
-![5](media/e275700f13984d29711b3c25d3b6f4a2.jpeg)
+![](media/e275700f13984d29711b3c25d3b6f4a2.jpeg)
 
 When connecting the circuit, pay attention to the positive & the negative poles
 of the buzzer. In the photo, you can see there are red and black lines. When the
@@ -1436,7 +1437,7 @@ compiling the code to convert the analog value it reads to celsius temperature.
 
 **Circuit Connection**
 
-![C)79K(HRB{QL{B\$533NC35M](media/ec76136e9864015d82bc0fefb18983a1.png)
+![](media/ec76136e9864015d82bc0fefb18983a1.png)
 
 **Sample Program**
 
@@ -1635,11 +1636,11 @@ firstly. Or [see the website](http://playground.arduino.cc/Main/DHTLib)
 
 //////////////////////////////////////////////////////////
 
-\##include \<dht11.h\>
+\#include \<dht11.h\>
 
 dht11 DHT;
 
-\##define DHT11_PIN 4
+\#define DHT11_PIN 4
 
 void setup(){
 
