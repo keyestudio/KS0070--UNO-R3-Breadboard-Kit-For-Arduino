@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 5
-   :caption: KS0505 STEM Starter Kit for Arduino
+   :caption: KS0070  UNO R3 Breadboard Kit For Arduino
 
 
    KS0070.md
