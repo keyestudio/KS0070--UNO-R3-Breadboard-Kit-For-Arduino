@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
-copyright = 'keyestudio , WiKi'
-author = 'keyestudio WiKi'
+project = 'Kit for arduino'
+copyright = 'keyestudio'
+author = 'keyestudio'
 
 # -- General configuration ---------------------------------------------------
 
